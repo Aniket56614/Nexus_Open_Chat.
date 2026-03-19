@@ -61,8 +61,8 @@ Anonymous video & text chat — meet strangers instantly. No signup required.
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/Vaibhav5860/NexusChat.git
-cd NexusChat
+git clone https://github.com/Aniket56614/Nexus_Open_Chat..git
+cd NexusOpenChat
 ```
 
 ### 2. Setup the server
@@ -77,8 +77,8 @@ Edit `server/.env` with your credentials:
 
 ```env
 GITHUB_TOKEN=ghp_your_token        # GitHub PAT with "repo" scope
-GITHUB_OWNER=Vaibhav5860
-GITHUB_REPO=NexusChat
+GITHUB_OWNER=Aniket56614
+GITHUB_REPO=Nexus_Open_Chat.
 MAIL_SERVICE=gmail
 MAIL_USER=your_email@gmail.com
 MAIL_PASS=your_app_password         # Gmail App Password
@@ -152,4 +152,4 @@ MIT
 
 ---
 
-Built by [Vaibhav](https://github.com/Vaibhav5860)
+Built by [Aniket56614](https://github.com/Aniket56614)
